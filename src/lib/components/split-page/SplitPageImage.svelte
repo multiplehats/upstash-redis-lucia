@@ -4,8 +4,7 @@
 	let className: string | undefined = undefined;
 
 	export { className as class };
-	export let backgroundImage =
-		'https://images.unsplash.com/photo-1631947430066-48c30d57b943?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1432&q=80';
+	export let backgroundImage ='/side-pic.jpeg';
 </script>
 
 <div
